@@ -1,0 +1,19 @@
+{
+  "name": "nodeapplication",
+  "version": "1.0.0",
+  "description": "Node demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node,mongodb"
+  },
+  "keywords": [
+    "node",
+    "mongodb"
+  ],
+  "author": "Sarat Muddu",
+  "license": "ISC"
+}
